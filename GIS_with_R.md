@@ -19,7 +19,7 @@ output:
 
 [`shapefiles`: Read and Write ESRI Shapefiles](https://cran.r-project.org/package=shapefiles) **_Outdated 2013-01-26 !!_**
 
-``` {r list-libraries, eval=FALSE}
+``` 
 library(sp) # vector data
 
 library(raster) # raster data
@@ -130,7 +130,7 @@ Other Resources for `mapview`: <https://www.rdocumentation.org/packages/mapview/
 
 &nbsp;
 
-#### HOW TO's & Recipes####
+#### HOW TO's & Recipes ####
 
 + [Convert a spatialpolygon to a SpatialPolygonsDataFrame and add a column to the attribute table](https://gis.stackexchange.com/questions/141469/how-to-convert-a-spatialpolygon-to-a-spatialpolygonsdataframe-and-add-a-column-t)
 
